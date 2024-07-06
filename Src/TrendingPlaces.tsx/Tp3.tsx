@@ -1,3 +1,4 @@
+// trending places 3
 import { Image, StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
